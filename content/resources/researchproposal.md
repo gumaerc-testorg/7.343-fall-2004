@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12086f92-ee8b-a08d-8cee-983cdf1727fa
 resourcetype: Document
 title: researchproposal.pdf
 uid: ecbbeafa-420a-e273-36d3-7353118dc8f4

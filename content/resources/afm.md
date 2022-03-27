@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 resourcetype: Document
 title: afm.pdf
 uid: 34fbe5c6-1ed2-6494-9eb2-db64f5e1607e

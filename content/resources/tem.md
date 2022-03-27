@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 resourcetype: Document
 title: tem.pdf
 uid: 52642945-4206-fa88-ffea-af6bf8d284ac

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 resourcetype: Document
 title: xray_crystal.pdf
 uid: a5a43ff0-2d19-e239-4c50-cc513381c8ee

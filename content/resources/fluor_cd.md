@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 resourcetype: Document
 title: fluor_cd.pdf
 uid: e7069f7b-b75e-7e21-50bc-0d096722b18b
