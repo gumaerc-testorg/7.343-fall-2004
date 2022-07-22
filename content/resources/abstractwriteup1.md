@@ -7,6 +7,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/8900
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: abstractwriteup1.pdf
 uid: 8900fd6e-5c1d-0f15-c74e-de4dac9e1153
 ---
 For the second written assignment, students will be given an abstract from a scientific paper and will be asked to design a set of experiments that would support the conclusions presented in it.
-

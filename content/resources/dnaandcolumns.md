@@ -6,6 +6,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/ed0c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dnaandcolumns.pdf
 uid: ed0cc017-f89f-6403-3e8b-79f4d044ab81
 ---
 DNA extraction, RNA extraction, Size exclusion chromatography, Ion exchange chromatography,
-

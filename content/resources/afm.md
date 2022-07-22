@@ -6,6 +6,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/34fb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: afm.pdf
 uid: 34fbe5c6-1ed2-6494-9eb2-db64f5e1607e
 ---
 Historical backgrounds, How AFM works, AFM versus other microscopic methods, AFM and biological applications and further reading.
-

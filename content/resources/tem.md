@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/5264
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tem.pdf
 uid: 52642945-4206-fa88-ffea-af6bf8d284ac
 ---
 Assigned reading. (Courtesy of anonymous student. Used with permission.)
-

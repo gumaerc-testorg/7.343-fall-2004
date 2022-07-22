@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/a5a4
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: xray_crystal.pdf
 uid: a5a43ff0-2d19-e239-4c50-cc513381c8ee
 ---
 X-ray Crystallography
-

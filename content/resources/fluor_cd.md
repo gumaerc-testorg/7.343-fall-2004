@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/e706
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: fluor_cd.pdf
 uid: e7069f7b-b75e-7e21-50bc-0d096722b18b
 ---
 CD and Fluorescence Spectroscopy
-

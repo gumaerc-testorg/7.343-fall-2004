@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/e0c0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: antibodies.pdf
 uid: e0c08289-21a2-297e-258e-576cf1dc8e80
 ---
 Assigned reading. (Courtesy of Alex Bagley. Used with permission.)
-

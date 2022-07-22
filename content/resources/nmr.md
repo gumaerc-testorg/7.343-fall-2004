@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/2d6f
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: nmr.pdf
 uid: 2d6ff29c-5dd9-7088-528e-0c9cd05ad56c
 ---
 Assigned reading. (Courtesy of John Cassady. Used with permission.)
-

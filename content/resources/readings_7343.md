@@ -5,6 +5,7 @@ file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/8169
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readings_7343.pdf
 uid: 81693d91-ac58-9598-763f-cde89dd2135a
 ---
 Reading Material for the "Protein Folding, Misfolding and Human Disease".
-
