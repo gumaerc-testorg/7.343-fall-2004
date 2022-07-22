@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section features Techniques handouts that describe in greater detail
+  the experimental methods and technologies used in the assigned literature listed
+  in the Readings column.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 ---
@@ -117,7 +123,7 @@ Karmysheva, V. Y., V. V. Pogodina, and V. M. Roikhel. "Cytopathological Changes 
   
 _Techniques  
   
-_Transmission Electron Microscopy/Scanning Electron Microscopy ([PDF]({{< baseurl >}}/resources/tem)) (Courtesy of anonymous student. Used with permission.)
+_Transmission Electron Microscopy/Scanning Electron Microscopy ({{% resource_link 52642945-4206-fa88-ffea-af6bf8d284ac "PDF" %}}) (Courtesy of anonymous student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +148,7 @@ _Techniques
   
 _X-ray Crystallography.
 
-Nuclear Magnetic Resonance ([PDF]({{< baseurl >}}/resources/nmr)) (Courtesy of John Cassady. Used with permission.)
+Nuclear Magnetic Resonance ({{% resource_link 2d6ff29c-5dd9-7088-528e-0c9cd05ad56c "PDF" %}}) (Courtesy of John Cassady. Used with permission.)
 
 
 {{< tdclose >}}
@@ -188,7 +194,7 @@ Thackray, A. M., J. Y. Madec, E. Wong, R. Morgan-Warren, D. R. Brown, T. Baron, 
   
 _Techniques  
   
-_Monoclonal and Polyclonal Antibodies ([PDF]({{< baseurl >}}/resources/antibodies)) (Courtesy of Alex Bagley. Used with permission.)
+_Monoclonal and Polyclonal Antibodies ({{% resource_link e0c08289-21a2-297e-258e-576cf1dc8e80 "PDF" %}}) (Courtesy of Alex Bagley. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

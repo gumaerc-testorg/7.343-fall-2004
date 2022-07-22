@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: Definition of Density Gradient Centrifugation
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-343-protein-folding-misfolding-and-human-disease-fall-2004/fb237e0435dffb79e2f09aeee6a7f3ee_centrifugation.pdf
+file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/fb237e0435dffb79e2f09aeee6a7f3ee_centrifugation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
+parent_uid: f769a5d2-6040-53ba-a2c9-e5c7bd25b4ef
 resourcetype: Document
 title: centrifugation.pdf
 uid: fb237e04-35df-fb79-e2f0-9aeee6a7f3ee
 ---
+Definition of Density Gradient Centrifugation
