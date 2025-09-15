@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: X-ray Crystallography
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/a5a43ff02d19e2394c50cc513381c8ee_xray_crystal.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/a5a43ff02d19e2394c50cc513381c8ee_xray_crystal.pdf
+file_size: 17178
 file_type: application/pdf
 learning_resource_types:
 - Readings

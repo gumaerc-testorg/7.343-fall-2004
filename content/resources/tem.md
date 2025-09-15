@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Assigned reading. (Courtesy of anonymous student. Used with permission.)
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/526429454206fa88ffeaaf6bf8d284ac_tem.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/526429454206fa88ffeaaf6bf8d284ac_tem.pdf
+file_size: 48036
 file_type: application/pdf
 learning_resource_types:
 - Readings

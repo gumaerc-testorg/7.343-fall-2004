@@ -7,7 +7,8 @@ description: This assignment will coincide with an oral presentation and will in
   diagrams if applicable. These technique descriptions will be copied and distributed
   to all members of the class, so at the end of the semester each student will have
   a "handbook" of techniques used in the protein folding field.
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/1fc2cbfde81802d3ab378200e5f179b6_present_guide2.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/1fc2cbfde81802d3ab378200e5f179b6_present_guide2.pdf
+file_size: 11695
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -5,7 +5,8 @@ description: The third written assignment will be to design a two page research 
   The experiments may include but are not limited to those described in class. The
   proposal will be due at the final class meeting. Students should feel free to contact
   the instructor to discuss ideas and topics.
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/ecbbeafa420ae27336d37353118dc8f4_researchproposal.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/ecbbeafa420ae27336d37353118dc8f4_researchproposal.pdf
+file_size: 16238
 file_type: application/pdf
 learning_resource_types:
 - Assignments

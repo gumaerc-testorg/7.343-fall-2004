@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: CD and Fluorescence Spectroscopy
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/e7069f7bb75e7e2150bc0d096722b18b_fluor_cd.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/e7069f7bb75e7e2150bc0d096722b18b_fluor_cd.pdf
+file_size: 85573
 file_type: application/pdf
 learning_resource_types:
 - Readings

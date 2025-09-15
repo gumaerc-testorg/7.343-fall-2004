@@ -3,7 +3,8 @@ content_type: resource
 description: For the second written assignment, students will be given an abstract
   from a scientific paper and will be asked to design a set of experiments that would
   support the conclusions presented in it.
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/8900fd6e5c1d0f15c74ede4dac9e1153_abstractwriteup1.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/8900fd6e5c1d0f15c74ede4dac9e1153_abstractwriteup1.pdf
+file_size: 20330
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: Historical backgrounds, How AFM works, AFM versus other microscopic methods,
   AFM and biological applications and further reading.
-file: /courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/34fbe5c61ed264949eb2db64f5e1607e_afm.pdf
+file: /ol-ocw-studio-app/courses/7-343-protein-folding-misfolding-and-human-disease-fall-2004/34fbe5c61ed264949eb2db64f5e1607e_afm.pdf
+file_size: 58213
 file_type: application/pdf
 learning_resource_types:
 - Readings
