@@ -94,7 +94,7 @@ _The Final Proof_
   
 Legname, G., I. V. Baskakov, H. O. Nguyen, D. Rienser, F. E. Cohen, S. J. DeArmond, and S. B. Prusiner. "Synthetic Mammalian Prions." _Science_ 305 (2004): 673-676.  
   
-{{% resource_link "b661ae33-3e8a-4c73-8f87-e2fd3236a0c6" "Science Magazine" %}}  
+[Science Magazine](http://www.sciencemag.org/)  
   
 _Techniques  
   
@@ -119,7 +119,7 @@ Tranchant, C., L. Geranton, C. Guirand-Chaumeil, M. Mohr, and J. M. Warter. "Bas
   
 Karmysheva, V. Y., V. V. Pogodina, and V. M. Roikhel. "Cytopathological Changes in Human and Animals Brains in Prion Diseases." _Neurosci Behav Physiol_. 34 (2004): 509-513.  
   
-{{% resource_link "39f6ac2a-d4ca-481c-bf23-f32c72ca2d1d" "Neuroscience and Behavioral Physiology" %}}  
+[Neuroscience and Behavioral Physiology](http://www.springer.com/biomed/neuroscience/journal/11055)  
   
 _Techniques  
   
@@ -169,7 +169,7 @@ Discussion with Dr. Peter Chien.
 {{< tdopen >}}
 Raymond, G., A. Bossers, L. Raymond, K. O'Rourke, L. McHolland, P. Bryant, M. Miller, E. Williams, M. Smits, and B. Caughey. "Evidence of a Molecular Barrier Limiting Susceptibility of Humans, Cattle and Sheep to Chronic Wasting Disease." _EMBO J._ 19 (2000): 4425-4430.  
   
-{{% resource_link "ef4fe848-140a-4fd4-a29d-1c85304c3566" "The EMBO Journal" %}}  
+[The EMBO Journal](http://www.nature.com/emboj/journal/v19/n17/)  
   
 Pertez, D., M. Scoot, D. Groth, R. Williamson, D. Burton, F. E. Cohen, and S. B. Prusiner. "Strain-specific Relative Conformational Stability of the Scrapie Prion Protein." _Protein Sci_. 10 (2001): 854-863.
 {{< tdclose >}}
@@ -188,7 +188,7 @@ One major problem in the battle against the prion diseases is that it has been e
 {{< tdopen >}}
 Saborio, G. P., B. Permanne, and C. Soto. "Senstitve Detection of Pathological Prion Protein by Cyclic Ampliflication of Protein Misfolding." _Nature_ 411 (2001): 810-813.  
   
-{{% resource_link "2db2ab3f-c578-47d3-a097-3270c71cf48d" "Nature publishing group" %}}  
+[Nature publishing group](http://www.nature.com/)  
   
 Thackray, A. M., J. Y. Madec, E. Wong, R. Morgan-Warren, D. R. Brown, T. Baron, and R. Bujdoso. "Detection of BSE, Ovine Scrapie Prion-related Protein (PrPSc) and Normal PrPc by Monoclonal Antibodies Raised to Copper Refolded Proteins." _Biochem J_. 370 (2003): 81-90.  
   
@@ -264,7 +264,7 @@ This week we will change our focus from Alzheimer's disease to α-synuclein and 
 {{< tdopen >}}
 Park, J. Y., P. T. Lansbury, Jr. "Beta-synuclein Inhibits Formation of Alpha-synuclein Protofibrils: A Possible Therapeutic Strategy against Parkinson's Disease." _Biochemistry_ 42 (2003): 3696-3700.  
   
-{{% resource_link "82a3ff20-aced-4901-a49e-6a6f86397826" "ACS Publications" %}}  
+[ACS Publications](http://pubs.acs.org/)  
   
 Zhu, M., J. Li, and A. L. Fink. "The Association of Alpha-synuclein with Membranes Affects Bilayer Structure, Stability, and Fibril Formation." _J Biol Chem_. 278 (2003): 40186-40197.
 {{< tdclose >}}
@@ -283,7 +283,7 @@ This week, we will turn our attention to polyglutamine expansion diseases. Succe
 {{< tdopen >}}
 Buchanan, G., M. Yang, A. Cheong, J. M. Harris, R. A. Irvine, P. F. Lambert, N. L. Moore, M. Raynor, P. J. Neufing, G. A. Coetzee, and W. D. Tilley. "Structural and Functional Consequences of Glutamine Tract Variation in the Androgen Receptor." _Hum Mol Genet_. 13 (2004): 1677-92.  
   
-{{% resource_link "18911738-8837-48cb-9ec9-e633321cb405" "Human Molecular Genetics" %}}  
+[Human Molecular Genetics](https://academic.oup.com/hmg/pages/About)  
   
 Busch, A., S. Engemann, R. Lurz, H. Okazawa, H. Lehrach, and E. E. Wanker. "Mutant Huntingtin Promotes the Fibrillogenesis of Wild-type Huntingtin: A Potential Mechanism for Loss of Huntingtin Function in Huntington's Disease." _J Biol Chem_. 278 (2003): 41452-61.
 {{< tdclose >}}
@@ -302,7 +302,7 @@ This week we will discuss two very different papers. First, we will examine the 
 {{< tdopen >}}
 Colon, W., and J. W. Kelly. "Partial Denaturation of Transthyretin is Sufficient for Amyloid Fibril Formation _in vitro_." _Biochemistry_ 31 (1992): 8654-8660.  
   
-{{% resource_link "82a3ff20-aced-4901-a49e-6a6f86397826" "ACS Publications" %}}  
+[ACS Publications](http://pubs.acs.org/)  
   
 Armen, R. S., M. L. DeMarco, D. O. Alonso, and V. Daggett. "Pauling and Corey's α-pleated Sheet Structure May Define the Prefibrillar Amyloidogenic Intermediate in Amyloid Disease." _Proc Natl Acad Sci._ USA (2004).  
   
